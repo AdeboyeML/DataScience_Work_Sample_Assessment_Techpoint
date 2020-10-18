@@ -7,9 +7,7 @@ Exploratory and Geographic analysis on Foodie Dataset - A Work Sample Assessment
 
 ### Data Science work sample assessment - Xtern 
 
-### Please, Note: The visualizations in this notebook cannot be render in Github BECAUSE it consists of interactive figures and maps, BUT can be render in [nbviewer](https://nbviewer.jupyter.org/).
-
-### Copy and paste the github URL of this notebook into [nbviewer](https://nbviewer.jupyter.org/).
+### Please, Note: The visualizations in the notebook can ONLY be viewed using this [nbviewer link] (https://nbviewer.jupyter.org/github/AdeboyeML/DataScience_Work_Sample_Assessment_Techpoint/blob/main/Data_Science_Work_Sample_Assessment.ipynb)
 
 
 #### Visualization Tools Used:
