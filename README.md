@@ -101,6 +101,9 @@ Review the data and draw four conclusions you can find from the data set. Some i
 
 
 ### - Location of the Best Restaurants in Indianapolis.
+
+- **Two Red Icons** are the Restaurants with the highest ratings, one of them also has the highest numbers of votes and reviews.
+
 ![best_rest][image2]
 
 
