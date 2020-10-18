@@ -6,7 +6,7 @@
 [image4]: ./foodie_images/exp_rest_foodie.PNG "exp_rest"
 [image5]: ./foodie_images/aff_rest_foodie.PNG "aff_rest"
 [image6]: ./foodie_images/new_foodie.PNG "new_foodie"
-[image7]: ./foodie_images/newplot_(68).png "cuisines"
+[image7]: ./foodie_images/common.png "cuisines"
 
 # DataScience_Work_Sample_Assessment_Techpoint
 Exploratory and Geographic analysis on Foodie Dataset - A Work Sample Assessment
