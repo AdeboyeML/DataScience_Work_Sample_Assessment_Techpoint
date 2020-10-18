@@ -1,3 +1,16 @@
+[//]: # (Image References)
+
+[image3]: ./foodie_images/average_cost_foodie.PNG "avg_cost"
+[image1]: ./foodie_images/heatmap_foodie.PNG "heat_map"
+[image2]: ./foodie_images/best_rest_foodie.PNG "best_rest"
+[image4]: ./foodie_images/exp_rest_foodie.PNG "exp_rest"
+[image5]: ./foodie_images/aff_rest_foodie.PNG "aff_rest"
+[image6]: ./foodie_images/new_foodie.PNG "new_foodie"
+[image7]: ./foodie_images/tree_view_dag.JPG "tree view"
+[image8]: ./foodie_images/redshift_connect.JPG "data check"
+[image9]: ./foodie_images/uk_pics_DB.jpg "etl pipeline"
+
+
 # DataScience_Work_Sample_Assessment_Techpoint
 Exploratory and Geographic analysis on Foodie Dataset - A Work Sample Assessment
 
@@ -7,7 +20,7 @@ Exploratory and Geographic analysis on Foodie Dataset - A Work Sample Assessment
 
 ### Data Science work sample assessment - Xtern 
 
-### Please, Note: The visualizations in the notebook can ONLY be viewed using this [nbviewer link](https://nbviewer.jupyter.org/github/AdeboyeML/DataScience_Work_Sample_Assessment_Techpoint/blob/main/Data_Science_Work_Sample_Assessment.ipynb)
+### Please, Note: The visualizations in the notebook can ONLY be viewed using this [nbviewer link](https://nbviewer.jupyter.org/github/AdeboyeML/DataScience_Work_Sample_Assessment_Techpoint/blob/main/Data_Science_Work_Sample_Assessment.ipynb) because GitHub does not render interactive figures/maps. 
 
 
 #### Visualization Tools Used:
@@ -71,3 +84,34 @@ Review the data and draw four conclusions you can find from the data set. Some i
 
 
 - Overall, the most common cuisine is **North Indian, available in about 43% of the restaurants included in this dataset, and some of these restaurants are concentrated in Rushville, Shelbyville and Batesville.**
+
+
+
+
+### - Some Major Findings
+
+### - Locations of Restaurants grouped by their respective "Average Cost" per cuisine.
+![avg_cost][image3]
+
+
+
+### - Hotspots of Restaurants in Indianapolis (identifiable pick-up zones).
+![heat_map][image1]
+
+
+
+### - Location of the Best Restaurants in Indianapolis.
+![best_rest][image2]
+
+
+
+### - Location of the Most expensive restaurants in Indiana.
+![exp_rest][image4]
+
+
+### - Location of affordable restaurants grouped by "Average Cost" of cuisines.
+![aff_rest][image5]
+
+
+### - Newly opened and Soon-to-be-opened restaurants.
+![new_foodie][image6]
