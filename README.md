@@ -6,10 +6,7 @@
 [image4]: ./foodie_images/exp_rest_foodie.PNG "exp_rest"
 [image5]: ./foodie_images/aff_rest_foodie.PNG "aff_rest"
 [image6]: ./foodie_images/new_foodie.PNG "new_foodie"
-[image7]: ./foodie_images/tree_view_dag.JPG "tree view"
-[image8]: ./foodie_images/redshift_connect.JPG "data check"
-[image9]: ./foodie_images/uk_pics_DB.jpg "etl pipeline"
-
+[image7]: ./foodie_images/new_plot(68) "cuisines"
 
 # DataScience_Work_Sample_Assessment_Techpoint
 Exploratory and Geographic analysis on Foodie Dataset - A Work Sample Assessment
@@ -118,3 +115,8 @@ Review the data and draw four conclusions you can find from the data set. Some i
 
 ### - Newly opened and Soon-to-be-opened restaurants.
 ![new_foodie][image6]
+
+
+
+### - Most Common Cuisines in Indianapolis -- Top 20.
+![cuisines][image7]
